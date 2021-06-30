@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .presentacion {
+    width: 500px;
+    height: 500px;
+    color: #e3f2fd ;
+    background-color:#82b1ff ; 
+    padding: 80px;
+  }
+  
+  
+  #listado {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+  }
+  .alim {
+    font-size: smaller;
+    width: 120px;
+    margin: 30px;
+    border-radius: 30%;
+  }
+  th{
+    width: 100px;
+  }
+  
+  td {
+    width: 100px;
+  }
+  .res-fondo{
+    background-color: #82b1ff;
+  }
+  .res-fondo1 {
+    background-color:#bbdefb;
+  }
+  .res-fondo2 {
+    background-color:#90caf9;
+  }
+  .card-panel {
+    width: 500px;
+  }
+  
+  /*# sourceMappingURL=style.css.map */
+  
